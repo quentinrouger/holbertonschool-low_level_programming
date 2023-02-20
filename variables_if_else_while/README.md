@@ -1,5 +1,7 @@
 0. Positive anything is better than negative nothing
+
 1. The last digit
+
 2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
 
 3. alphABET
@@ -16,3 +18,4 @@
 
 9. Patience, persistence and perspiration make an unbeatable combination for success
 
+10. Inventing is a combination of brains and materials. The more brains you use, the less material you need
