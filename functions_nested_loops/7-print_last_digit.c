@@ -12,6 +12,7 @@ if (n > 0)
 last = n % 10;
 else
 last = (n % 10) * -1;
+_putchar('0' + last);
 return (last);
 }
 
