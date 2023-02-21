@@ -6,3 +6,5 @@
 
 3. islower
 
+4. isalpha
+
