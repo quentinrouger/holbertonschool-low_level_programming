@@ -22,3 +22,9 @@ int _islower(int c);
 *Write a function that checks for alphabetic character.
 */
 int _isalpha(int c);
+
+/**
+*Write a function that prints the sign of a number.
+*/
+int print_sign(int n);
+
