@@ -47,3 +47,6 @@ void print_diagonal(int n);
 *Write a function that prints a square, followed by a new line.
 */
 void print_square(int size);
+
+/**
+*Write a program that prints the numbers from 1 to 100. 
