@@ -18,3 +18,4 @@
 
 9. Fizz-Buzz
 
+10. Triangles

@@ -49,4 +49,6 @@ void print_diagonal(int n);
 void print_square(int size);
 
 /**
-*Write a program that prints the numbers from 1 to 100. 
+*Write a program that prints a triangle
+*/
+void print_triangle(int size);
