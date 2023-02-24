@@ -16,7 +16,7 @@ for (i = 1; i <= size; i++)
 {
 for (j = 1; j <= size; j++)
 {
-  if (j <= (size - i))
+if (j <= (size - i))
 {
 _putchar(32);
 }
