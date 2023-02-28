@@ -40,3 +40,9 @@ void puts2(char *str);
 *Write a function that prints half of a string,
 */
 void puts_half(char *str);
+
+/**
+*Write a function that prints n elements of an array of integers, followed by a new line.
+*/
+void print_array(int *a, int n);
+
