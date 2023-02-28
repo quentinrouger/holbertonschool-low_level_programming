@@ -16,3 +16,5 @@
 
 8. Arrays are not pointers
 
+9. strcpy
+
