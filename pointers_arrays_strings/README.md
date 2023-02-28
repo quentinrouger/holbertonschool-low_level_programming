@@ -12,3 +12,4 @@
 
 6. Half the lies they tell about me aren't true
 
+7. Winning is only half of it. Having fun is the other half
