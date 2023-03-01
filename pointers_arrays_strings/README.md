@@ -31,3 +31,5 @@ More pointers, arrays and strings
 
 2. strncpy
 
+3. strcmp
+
