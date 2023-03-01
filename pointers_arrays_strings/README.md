@@ -29,3 +29,5 @@ More pointers, arrays and strings
 
 1. strncat
 
+2. strncpy
+
