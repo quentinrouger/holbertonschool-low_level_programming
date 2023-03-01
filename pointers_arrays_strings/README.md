@@ -1,3 +1,5 @@
+Pointers, arrays and strings
+
 0. 98 Battery st.
 
 1. Don't swap horses in crossing a stream
@@ -19,3 +21,9 @@
 9. strcpy
 
 10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers
+
+
+More pointers, arrays and strings
+
+0. strcat
+

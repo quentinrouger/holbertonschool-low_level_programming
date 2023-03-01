@@ -28,4 +28,5 @@ int _atoi(char *s);
 /**
 *Project - more pointers, arrays and strings
 */
+char *_strcat(char *dest, char *src);
 
