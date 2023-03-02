@@ -37,3 +37,5 @@ More pointers, arrays and strings
 
 5. Always look up
 
+6. Expect the best. Prepare for the worst. Capitalize on what comes
+
