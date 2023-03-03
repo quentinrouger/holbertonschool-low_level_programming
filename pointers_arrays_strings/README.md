@@ -1,4 +1,4 @@
-Pointers, arrays and strings
+--Pointers, arrays and strings--
 
 0. 98 Battery st.
 
@@ -23,7 +23,7 @@ Pointers, arrays and strings
 10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers
 
 
-More pointers, arrays and strings
+--More pointers, arrays and strings--
 
 0. strcat
 
@@ -40,4 +40,8 @@ More pointers, arrays and strings
 6. Expect the best. Prepare for the worst. Capitalize on what comes
 
 7. Mozart composed his music not for the elite, but for everybody
+
+--Even more pointers, arrays and strings--
+
+0. memset
 

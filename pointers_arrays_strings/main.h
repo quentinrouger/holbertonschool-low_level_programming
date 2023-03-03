@@ -44,3 +44,9 @@ char *cap_string(char *);
 
 char *leet(char *);
 
+
+/**
+*Project - Even more pointers, arrays and strings
+*/
+char *_memset(char *s, char b, unsigned int n);
+
