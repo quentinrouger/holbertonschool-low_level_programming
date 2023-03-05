@@ -53,3 +53,5 @@
 
 4. strpbrk
 
+5. strstr
+
