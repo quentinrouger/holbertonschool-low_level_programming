@@ -55,3 +55,5 @@
 
 5. strstr
 
+6. Chess is mental torture
+
