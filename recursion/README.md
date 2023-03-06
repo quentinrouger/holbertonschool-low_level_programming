@@ -6,3 +6,5 @@
 
 3. You mustn't be afraid to dream a little bigger, darling
 
+4. Once an idea has taken hold of the brain it's almost impossible to eradicate
+
