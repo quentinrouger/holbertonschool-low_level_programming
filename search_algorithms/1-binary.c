@@ -29,12 +29,13 @@ int binary_search(int *array, size_t size, int value)
 		printf("%d\n", array[i]);
 		i = low + (high - low) / 2;
 
+		if (array[i] == value)
+			return (i);
+
 		if (array[i] < value)
 			low = i + 1;
-		else if (array[i] > value)
-			high = i - 1;
 		else
-			return (i);
+			high = i - 1;
 	}
 	return (-1);
 }
