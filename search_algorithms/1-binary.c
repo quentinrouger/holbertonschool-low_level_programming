@@ -12,7 +12,7 @@ int binary_search(int *array, size_t size, int value)
 {
 	int low, i, high;
 
-	if (array == NULL)
+	if (array == NULL || size == 0)
 		return (-1);
 
 	low = 0;
